@@ -1,0 +1,10 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "loose": true // Disable "use strict" and other strict mode behaviors
+      }
+    ]
+  ]
+}
